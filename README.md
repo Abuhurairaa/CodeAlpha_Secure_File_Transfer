@@ -1,7 +1,5 @@
 # CodeAlpha_Secure_File_Transfer
 
-# Secure File Transfer Application
-
 This is a secure file transfer application developed with end-to-end encryption, access controls, and audit logs to ensure the confidentiality and integrity of transferred files.
 
 ## Features
@@ -26,11 +24,15 @@ To get started with the application, follow these steps:
    ```bash
    git clone https://github.com/yourusername/repositoryname.git
 
-2.Navigate to the project directory:
-
-- cd secure-file-transfer-application
+2. Navigate to the project directory:
+```
+ cd secure-file-transfer-application
+```
 3. Run the server:
-
-- python server.py
+```
+ python server.py
+```
 4. Run the client:
-- python client.py
+```
+ python client.py
+```
