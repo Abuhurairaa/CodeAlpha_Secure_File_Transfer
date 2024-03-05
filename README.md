@@ -22,7 +22,7 @@ To get started with the application, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+   https://github.com/Abuhurairaa/CodeAlpha_Secure_File_Transfer.git
 
 2. Navigate to the project directory:
 ```
